@@ -1,9 +1,2 @@
 - 👋 Hi, I’m @WangZhimingandx
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
 I am a network engineer, a network security engineer, and a network security engineer who only knows communication technology
---->
